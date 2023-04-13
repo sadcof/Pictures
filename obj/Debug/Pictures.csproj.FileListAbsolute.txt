@@ -1,0 +1,8 @@
+D:\C#\Junior\Pictures\Pictures\bin\Debug\Pictures.exe.config
+D:\C#\Junior\Pictures\Pictures\bin\Debug\Pictures.exe
+D:\C#\Junior\Pictures\Pictures\bin\Debug\Pictures.pdb
+D:\C#\Junior\Pictures\Pictures\obj\Debug\Pictures.csproj.AssemblyReference.cache
+D:\C#\Junior\Pictures\Pictures\obj\Debug\Pictures.csproj.SuggestedBindingRedirects.cache
+D:\C#\Junior\Pictures\Pictures\obj\Debug\Pictures.csproj.CoreCompileInputs.cache
+D:\C#\Junior\Pictures\Pictures\obj\Debug\Pictures.exe
+D:\C#\Junior\Pictures\Pictures\obj\Debug\Pictures.pdb
